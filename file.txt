@@ -1,0 +1,4 @@
+product	quantity	est_price
+apple	3	2
+banana	1	0.5
+boat	1	250000000
